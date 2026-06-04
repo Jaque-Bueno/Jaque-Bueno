@@ -1,38 +1,39 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Jaque%20Bueno&fontSize=42&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Jaque%20Bueno&fontSize=42&fontColor=ffffff"/>
 </p>
 
-# Olá, eu sou Jaque Bueno 👋
+<h1 align="center">Olá, eu sou Jaque Bueno 👋</h1>
 
-🎓 Estudante de Gestão da Tecnologia da Informação
+<p align="center">
+🎓 Estudante de Gestão da Tecnologia da Informação <br>
+🚀 Em constante evolução na área de Tecnologia
+</p>
 
-Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Atualmente estou desenvolvendo minhas habilidades em programação, Git/GitHub, desenvolvimento web e Inteligência Artificial.
+---
 
-🚀 Meu objetivo é construir uma carreira sólida na área de tecnologia, unindo gestão, inovação e desenvolvimento de soluções que gerem impacto positivo.
+## 💜 Sobre mim
+
+Sou estudante de Gestão da Tecnologia da Informação e apaixonada por tecnologia, inovação e aprendizado contínuo.
+
+Atualmente estou desenvolvendo habilidades em programação, Git/GitHub, banco de dados, desenvolvimento web e Inteligência Artificial.
+
+Meu objetivo é unir conhecimentos técnicos e de gestão para criar soluções que gerem valor e impacto positivo.
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Gestão da Tecnologia da Informação
-- Lógica de Programação
 - Python
 - Git e GitHub
-- Banco de Dados
+- Lógica de Programação
 - HTML e CSS
+- Banco de Dados
 - Inteligência Artificial
+- Gestão de Projetos de TI
 
 ---
 
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaque%20Bueno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaque-bueno)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jaque--Bueno-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaque-Bueno)
-
----
-
-## 💻 Tecnologias em aprendizado
+## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -48,6 +49,18 @@ Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas.
 
 ---
 
+## 🏆 Destaques
+
+✅ Desafios de programação no Codeforces
+
+✅ Projetos acadêmicos de Gestão da Tecnologia da Informação
+
+✅ Estudos utilizando Inteligência Artificial como ferramenta de aprendizado
+
+✅ Documentação de projetos e evolução técnica no GitHub
+
+---
+
 ## 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaque-Bueno&show_icons=true&theme=tokyonight)
@@ -56,16 +69,12 @@ Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas.
 
 ---
 
-## 🏆 Projetos e Desafios
+## 🌐 Vamos nos conectar?
 
-🔹 Resolução de desafios no Codeforces
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaque%20Bueno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaque-bueno)
 
-🔹 Projetos acadêmicos da graduação em Gestão da Tecnologia da Informação
-
-🔹 Estudos e aplicações de Inteligência Artificial
-
-🔹 Exercícios de lógica e programação
+[![GitHub](https://img.shields.io/badge/GitHub-Jaque--Bueno-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaque-Bueno)
 
 ---
 
-✨ Aprendendo um pouco todos os dias para construir grandes resultados no futuro.
+✨ "A tecnologia move o mundo. O aprendizado constante nos move junto com ela."
