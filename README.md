@@ -15,25 +15,28 @@
 
 Sou estudante de Gestão da Tecnologia da Informação e apaixonada por tecnologia, inovação e aprendizado contínuo.
 
-Atualmente estou desenvolvendo habilidades em programação, Git/GitHub, banco de dados, desenvolvimento web e Inteligência Artificial.
+Atualmente estou desenvolvendo habilidades em programação, Git e GitHub, banco de dados, desenvolvimento web e Inteligência Artificial.
 
-Meu objetivo é unir conhecimentos técnicos e de gestão para criar soluções que gerem valor e impacto positivo.
+Participo de desafios de lógica e programação, documentando meu processo de aprendizado, dificuldades e evolução técnica através dos meus projetos no GitHub.
+
+Meu objetivo é unir conhecimentos de gestão e tecnologia para desenvolver soluções eficientes e contribuir para a transformação digital das organizações.
 
 ---
 
 ## 📚 Atualmente estudando
 
+- Gestão da Tecnologia da Informação
+- Lógica de Programação
 - Python
 - Git e GitHub
-- Lógica de Programação
 - HTML e CSS
 - Banco de Dados
 - Inteligência Artificial
-- Gestão de Projetos de TI
+- Desenvolvimento de Projetos
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias em aprendizado
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -51,13 +54,18 @@ Meu objetivo é unir conhecimentos técnicos e de gestão para criar soluções 
 
 ## 🏆 Destaques
 
-✅ Desafios de programação no Codeforces
+### Desafio Codeforces + IA
 
-✅ Projetos acadêmicos de Gestão da Tecnologia da Informação
+- Resolução de problemas na plataforma Codeforces
+- Utilização de Inteligência Artificial como apoio ao aprendizado
+- Documentação completa do processo de resolução
+- Registro dos aprendizados, desafios e evolução técnica no GitHub
 
-✅ Estudos utilizando Inteligência Artificial como ferramenta de aprendizado
+### Projetos Acadêmicos
 
-✅ Documentação de projetos e evolução técnica no GitHub
+- Atividades e projetos da graduação
+- Exercícios de lógica de programação
+- Estudos práticos de tecnologia e inovação
 
 ---
 
@@ -69,7 +77,7 @@ Meu objetivo é unir conhecimentos técnicos e de gestão para criar soluções 
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaque%20Bueno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaque-bueno)
 
@@ -77,4 +85,4 @@ Meu objetivo é unir conhecimentos técnicos e de gestão para criar soluções 
 
 ---
 
-✨ "A tecnologia move o mundo. O aprendizado constante nos move junto com ela."
+✨ "Aprendendo um pouco todos os dias para transformar conhecimento em oportunidades."
